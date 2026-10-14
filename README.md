@@ -2,7 +2,11 @@
 
 > An interactive Power BI sales dashboard built for operational managers and leadership to evaluate end-of-month revenue trends, fulfillment speeds, and customer satisfaction metrics.
 
----
+<p align="center">
+  <img src="dashboard_preview.PNG" alt="Executive Monthly Sales Dashboard Preview" width="100%">
+</p>
+
+<br>
 
 ## 📌 Project Overview
 
